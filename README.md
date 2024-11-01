@@ -9,13 +9,15 @@
    
 2. Model and enhance data for analysis
 
+     * Enhance the dataset for more effective analysis.
+
 3. Analyze Surveyer Data
 
-      * Build card to show number of survey takers and age.
-      * Build treemap showing country of survey takers.
-      * Build bar chart showing the average salary by job title.
-      * Build bar chart showing the most used programming language.
-      * Build donut chart showing the difficultiness to break into data.
-      * Build gauge chart showing the average happiness with salary and worklife balance.
+     * Create a Card visualization to display the total number of survey participants and their average age.
+     * Develop a Treemap to illustrate the distribution of survey participants by country.
+     * Construct a Bar Chart to show the average salary segmented by job title.
+     * Build another Bar Chart to highlight the most commonly used programming languages.
+     * Design a Donut Chart to represent the perceived difficulty of entering the data profession.
+     * Create a Gauge Chart to visualize the average levels of satisfaction with salary and work-life balance.
        
   
