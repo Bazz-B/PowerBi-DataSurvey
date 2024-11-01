@@ -11,7 +11,11 @@
 2. Model and enhance data for analysis
 
 3. Analyze Surveyer Data
-       Build heat map showing country of survey takers
+
+      Build treemap showing country of survey takers.
        Build bar chart showing the average salary by job title.
+       Build bar chart showing the most used programming language.
+         Build donut chart showing the difficultiness to break into data.
+         Build gauge chart showing the average happiness with salary and worklife balance
        
   
